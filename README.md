@@ -1,8 +1,4 @@
-# DS-profile
-
-
 Adisak Sukul
-
 Associate Teaching Professor
 Coordinator for Industrial and Alumni Relations, Department of Computer Science 
 Adisak Sukul photo
@@ -64,3 +60,26 @@ Adisak Sukul, Pattarasinee Bhattarakosol, “Range Extended Multi-hop Relay Netw
 A. Sukul, J. Morris Chang, and P. Bhattarakosol, “An Unbound Network Coding for Extended IEEE 802.16j Multi-hop Relay Network”, International Journal of Distributed Sensor Networks, Hindawi Publishing, Nov 2011.
 
 A. Sukul and P. Bhattarakosol, “Range Extended Multi-hop Relay Network with Network Coding Relay”. In Conf. International Conference on Communications Systems and Technologies 2011 (ICCST'11), San Francisco, CA, USA, Oct. 2011. Best Paper Award
+
+Area of Expertise: 
+AI
+ML
+and Data Science
+Other Affiliations: 
+Google Cloud Faculty Experts
+Google Cloud Champion Innovator
+Interdepartmental Programs: 
+Data Science for the Public Good (DSPG)
+Midwest Big Data Summer School for Early Career Researchers
+Data Science Club - Advisor
+Education: 
+Ph.D., Computer Science, Chulalongkorn University, 2010
+M.S., Information Technology, King Mongkut's Institute of Technology Ladkrabang, 2003
+B.S., Computer Science, King Mongkut's Institute of Technology Ladkrabang, 2000
+Teaching: 
+Spring 2023: COM S 113: Introduction to Spreadsheets and Databases
+Spring 2023: DS 201: Introduction to Data Science
+Spring 2023: DS 401: Data Science Capstone
+Contact
+Email: adisak@iastate.edu
+(515) 294-8933
