@@ -1,4 +1,5 @@
 # DS-profile
+theme: minima
 
 Adisak Sukul
 
